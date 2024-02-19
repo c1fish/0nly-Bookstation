@@ -1,2 +1,3 @@
 # Cyber-Bookstation
-emmm. readonle
+
+[read-only]
